@@ -13,7 +13,7 @@ input element that accepts text as input
 4. ```<input type="text" placeholder="Something you wanna display in placeholder">``` <br>
 to display text in placeholder  
 
-5. ```<form action="/url-where-you-want-to-submit-form-data">```<br>
+5. ```<form action="/url-where-you-want-to-submit-form-data"></form>```<br>
 
 6. ```<button type="submit"> Submit </button>"```<br>
 to submit the form to the url in the action
