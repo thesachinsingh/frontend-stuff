@@ -36,3 +36,36 @@ This is to be kept inside the input element of your radio/checkbox <br>
 11. ```<input type="radio" name="outdoor-indoor" checked>```<br>
 For Making a Button checked by deafault if the user doesn't click on any option<br>
 
+## Useful CSS info
+1. ```<style> Here goes your css </style>```
+To Write css inside html file , just write the css in this block. Remeber to keep it inside the header of the page<br>
+
+2. ```.small-font {```<br>
+```font-size: 16px```<br>
+```font-family: monospace;```<br>
+```}```<br>
+For defining a specific font and font-size in css
+
+3. CSS borders have properties like style, color and width, Here's how to use them. <br>
+```.thick-pink-border {```<br>
+```    border-width: 10px;```<br>
+```    border-color: pink;```<br>
+```    border-style: solid;```<br>
+```}```<br>
+
+4.  ```border-radius: 50%;```<br>
+For making the photo/element circular put border-radius as 50% <br>
+
+5. ```background-color: silver;```<br>
+For changing background color to silver/desired color<br>
+
+6.  An ```id``` has a higher specificity (importance) than a class so if both are applied to the same element and have conflicting styles, the styles of the id will be applied.<br>
+
+7. Using an id Attribute to Style an Element<br>
+```  #cat-photo-form {```<br>
+```    background-color: green```<br>
+```  }```<br>
+
+8. An element's ```margin``` controls the amount of space between an element's border and surrounding elements.<br>
+
+9. An element's ```padding``` controls the amount of space between the element's content and its border.<br>
